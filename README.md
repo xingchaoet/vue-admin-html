@@ -146,7 +146,7 @@
 │   ├── api                                 // API 接口逻辑文件
 │   │   ├── ad                              // 广告相关
 │   │   │   ├── ad.js                       // 广告
-│   │   │   └── adSite.js                   // 广告位
+│   │   │   └── supplier.js                   // 广告位
 │   │   ├── auth                            // 权限相关
 │   │   │   ├── authAdmin.js                // 权限用户
 │   │   │   ├── authPermissionRule.js       // 权限
